@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ishtiyaq008
 - 👀 I’m interested in cloud computing 
 - 🌱 I’m currently learning aws devops
-- 💞️ I’m looking to collaborate on pipesetup
+- 💞️ I’m looking to collaborate on CI/CD pipeline setup
 - 📫 How to reach me ishtiyaq9700@gmail.com.
 
 <!---
